@@ -1,0 +1,200 @@
+body {
+    background-color: rgba(208, 208, 208, 0.67);
+}   
+
+#Page  {
+    margin: auto;
+    width: 697px;
+    height: 1264px;
+    background-color: #FFFFFF;
+}
+nav {
+    position: absolute;
+    width: 697px;
+    height: 49px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 8px 0px;
+/*     align-items: baseline; */
+    
+}
+
+
+
+h1 {
+    display: inline-block;
+    color: #777777;;
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 28px;
+/*     padding-left: 25px;
+    padding-bottom: 15px; */
+    margin-top: 8px;
+    margin-left: 44px;
+    margin-bottom: 16px;
+}
+h2 {
+    display: inline-block;
+    color: #777777;
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 25px;
+    margin: 9px 158px 0px 12px;
+}
+h3 {
+    color: #777777;
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 25px;
+    margin-top: 45px; 
+    margin-bottom: 0%
+}
+p {
+    text-align: justify;
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 10px;
+    color: #777777;
+    margin-right: 9px;
+    margin-left: 9px;
+
+}
+span {
+    display: inline-block;
+    color: #777777;;
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 10px;
+/*     padding-left: 25px;
+    padding-bottom: 15px; */
+    margin-left: 2px;
+}
+article {
+    display: flex;
+    position: absolute;
+    margin-top: 365px;
+}
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    margin-top: 629px;
+    margin-right: 445px;
+    margin-left: 44px;
+}
+footer {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    width: 697px;
+    height: 243px;
+    margin-top: 1021px;
+    position: absolute;
+    background-color: #333333;
+    
+}
+
+
+.vetor {
+    display: inline-block;
+    margin-top: 18px;
+    margin-right: 31px;
+    margin-bottom: 19px;
+    margin-left: 483px;
+    align-items: flex-end;
+    position: absolute;
+}
+.loby {
+    position: absolute;
+
+     margin: 69px 45px 0px 44px;  
+}
+.pics {
+    display: flex;
+}
+
+.pic1 {
+   /*  display: flex; */
+/*     align-content: flex-start; */
+    position: absolute;
+    margin-left: 44px;
+    margin-right: 397px;
+/*     padding-bottom: 98px; */
+    background-color: #EEEEEE;
+    
+}
+
+.pic2 {
+   /*  display: inline-block; */
+    position: absolute;
+    margin-left: 397px;
+    margin-right: 45px;
+/*     padding-bottom: 98px; */
+    background-color: #EEEEEE;
+}
+.position {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+}
+.color {
+    /* display: flex; */
+    position: absolute;
+    margin-right:6PX;
+    margin-bottom: 7px;
+}
+.text {
+/*     display: flex; */
+    position: absolute;
+    margin-right:17PX;
+    margin-bottom: 10px;
+}
+.text2 {
+    /*     display: flex; */
+        position: absolute;
+        margin-right:19PX;
+        margin-bottom: 10px;
+}
+.column{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: nowrap;
+    align-items: center;
+    margin-top: 13px;
+}
+
+.interno {
+
+    position: absolute; 
+}
+.maps {
+    margin: 40px 397px 40px 48px;
+}
+footer p{
+    width: 195px;
+    height: 95px;
+    margin: 49px 55px 99px 447px;
+    position: absolute;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 23px;
+    text-align: justify;
+    color: #FFFFFF;
+}
+.foot {
+    display: flex;
+    position: absolute;
+    margin-top: 180px;
+    margin-right: 126px;
+    margin-left: 551px;
+}
+.img1 {
+    margin:0px 13px;
+}
+.img2 {
+    margin:0px 13px;
+}   
+.img3 {
+    margin:0px 13px;
+} 
